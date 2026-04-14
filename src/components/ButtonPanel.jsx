@@ -40,6 +40,7 @@ const ButtonPanel = ({
         <Button variant="special" onClick={onToggleSign}>±</Button>
         <Button variant="special" onClick={onPercent}>%</Button>
         <Button variant="equals" onClick={onEquals}>=</Button>
+        
       </div>
     </div>
   );
