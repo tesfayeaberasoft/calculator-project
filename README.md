@@ -1,7 +1,7 @@
 # 🧮 React Calculator
 
 A modern, fully-functional calculator application built with React. Features a sleek glass-morphism design, responsive layout, and complete arithmetic operations.
-
+![Calculator Screenshot](./Capture.PNG)
 ![React](https://img.shields.io/badge/React-18.2.0-61dafb)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6)
 ![License](https://img.shields.io/badge/License-MIT-green)
